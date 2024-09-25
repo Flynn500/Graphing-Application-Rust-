@@ -4,3 +4,5 @@ fGrapher is a graphing application heavily inspired by https://www.desmos.com/ca
 <img src="fgimg/Screenshot (39).png" alt="Image description">
 
 fGrapher works by using the RSC crate to parse user input into a usable expression which is then used to generate a vector of points. using EGUI's draw line method these points are connected up to form the line for the function. This technique works, and was reasonably performant after caching these points but is far from perfect. A linear line for example could be represented with 2 points insetad the several thousand points the program generates. This system also makes it hard for me to indetify asymptotes, the program currently only can identify these if an error is thrown while computing a point. If the points are just slightly after or before an asymptote it is missed which can cause extra lines on asymptotes where there should be none.
+
+<img src="fgimg/Screenshot (40).png" alt="Image description">
