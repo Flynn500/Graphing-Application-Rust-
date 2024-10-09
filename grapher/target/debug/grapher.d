@@ -1,0 +1,1 @@
+C:\Users\Flynn\ Wilson\Documents\GitHub\fGrapher\grapher\target\debug\grapher.exe: C:\Users\Flynn\ Wilson\Documents\GitHub\fGrapher\grapher\fonts\IBMPlexMono-Regular.ttf C:\Users\Flynn\ Wilson\Documents\GitHub\fGrapher\grapher\src\gmath.rs C:\Users\Flynn\ Wilson\Documents\GitHub\fGrapher\grapher\src\main.rs

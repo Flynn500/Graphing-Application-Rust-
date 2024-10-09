@@ -1,0 +1,9 @@
+[package]
+name = "grapher"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.28.1"
+egui = "0.28.1"
+rsc = "1.2.1"
