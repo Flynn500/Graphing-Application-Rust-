@@ -3,7 +3,7 @@ fGrapher is a graphing application heavily inspired by https://www.desmos.com/ca
 
 <img src="fgimg/Screenshot (39).png" alt="Image description">
 
-I was at chapter 7 of the rust book when starting this project and this project was purley a way for me to get some hands on experience with rust. I'm sure there are much better ways to go about error handling and passing around data within the program but I have next to no experience on designing in an expandable and maintainable way. While the overall system design is lacking this project gave me a much better grasp of ownership in rust and I found myself quickly improving at small scale problems within the language. 
+I was at chapter 7 of the rust book when starting this project and this project was purley a way for me to get some hands on experience with rust. Overall really enjoyed using rust for this but in future I would look to try different languages for front end. I think I also need to learn more about system design as I don't think I could realistically add much more functionality without having to massivley overhall the project.
 
 <img src="fgimg/Screenshot (41).png" alt="Image description">
 
